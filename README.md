@@ -1,4 +1,5 @@
-# Indabax AI Club UTAMU
+# Indabax AI Club UTAMU<br>
+### Where your Dream AI comes into Reality
 
 Welcome to the official repository for the Indabax AI Club at UTAMU. This repository contains the source code and assets for our club's website.
 
@@ -30,8 +31,10 @@ Check out our website [here](https://indaxaiclubutamu.github.io/Indabax-AI-Club-
 For any inquiries, please contact us at:
 - Email: byonanebye.arison@student.utamu.ac.ug
 - Email: harrisondaviinci@gmail.com
+- Email: godwinofwono@student.utamu.ac.ug
 - Telegram: [HarrisonDv](https://t.me/HarrisonDv)
 - WhatsApp: +256 756 206 363
+- WhatApp:  +256 757013189
 - GitHub: [Arison99](https://github.com/Arison99)
 
 <!DOCTYPE html>
